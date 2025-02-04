@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Swaymaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swaymaw&&show_icons=true&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=Swaymaw&color=blue&style=flat-square)
